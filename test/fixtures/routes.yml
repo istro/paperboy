@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  id: MyString
+  dealer_id: 
+  pay_scale: 
+  comp_allowance: 
+  bonus: 
+
+two:
+  id: MyString
+  dealer_id: 
+  pay_scale: 
+  comp_allowance: 
+  bonus: 

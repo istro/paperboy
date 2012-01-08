@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  route_id: MyString
+  report_date: 2012-01-07
+  draw: 
+  complaints: 
+
+two:
+  route_id: MyString
+  report_date: 2012-01-07
+  draw: 
+  complaints: 
