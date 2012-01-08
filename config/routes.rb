@@ -1,4 +1,6 @@
 Paperboy::Application.routes.draw do
+  devise_for :dealers
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

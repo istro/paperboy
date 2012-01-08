@@ -32,3 +32,4 @@ gem 'capistrano'
 # gem 'ruby-debug'
 
 gem 'mysql'
+gem 'devise'
